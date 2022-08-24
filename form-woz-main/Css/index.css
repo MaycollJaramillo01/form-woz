@@ -1,0 +1,16 @@
+.txt-container h1 {
+    font-size: 300;
+    font-style: normal;
+    color: #326492;
+  }
+  
+  .container .txt-container {
+    position: relative;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: -40%;
+    margin-top: -250px;
+    background-color: #326492;
+  }
+  

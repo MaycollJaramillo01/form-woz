@@ -37,15 +37,4 @@
   position: absolute;
 }
 
-.container .txt-container {
-  position: relative;
-  top: 150%;
-  font-family: "Roboto";
-  background-color: #0057ff;
-}
 
-.txt-container h1 {
-  font-size: 300;
-  font-style: normal;
-  color: #326492;
-}
